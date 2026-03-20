@@ -120,3 +120,4 @@ Sistema basado en arquitectura cliente-servidor con API REST:
 ## Nota
 
 Este proyecto representa una implementación funcional orientada a uso institucional, diseñada para ser mantenida y evolucionada por futuros equipos de desarrollo.
+
